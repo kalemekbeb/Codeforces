@@ -1,0 +1,15 @@
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\bin\Debug\net8.0\NextRoundA.exe
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\bin\Debug\net8.0\NextRoundA.deps.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\bin\Debug\net8.0\NextRoundA.runtimeconfig.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\bin\Debug\net8.0\NextRoundA.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\bin\Debug\net8.0\NextRoundA.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.AssemblyInfoInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.AssemblyInfo.cs
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.csproj.CoreCompileInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.sourcelink.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\refint\NextRoundA.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\NextRoundA.genruntimeconfig.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\COMPLETED\158A\NextRoundA\NextRoundA\obj\Debug\net8.0\ref\NextRoundA.dll

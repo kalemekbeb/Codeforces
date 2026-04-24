@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\COMPLETED\\158A\\NextRoundA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33EE312F-3D91-448D-BCF7-F39712ED0AEC}|NextRoundA\\NextRoundA.csproj|c:\\users\\kalef\\onedrive\\desktop\\work\\codeforces\\problems\\completed\\158a\\nextrounda\\nextrounda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33EE312F-3D91-448D-BCF7-F39712ED0AEC}|NextRoundA\\NextRoundA.csproj|solutionrelative:nextrounda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\COMPLETED\\158A\\NextRoundA\\NextRoundA\\Program.cs",
+              "RelativeDocumentMoniker": "NextRoundA\\Program.cs",
+              "ToolTip": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\COMPLETED\\158A\\NextRoundA\\NextRoundA\\Program.cs",
+              "RelativeToolTip": "NextRoundA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:06:21.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
