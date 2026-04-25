@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\IN-PROGRESS\\50A_DominoPiling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44906F81-3003-4A81-9137-A06E9600C8A4}|50A_DominoPiling\\50A_DominoPiling.csproj|c:\\users\\kalef\\onedrive\\desktop\\work\\codeforces\\problems\\in-progress\\50a_dominopiling\\50a_dominopiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44906F81-3003-4A81-9137-A06E9600C8A4}|50A_DominoPiling\\50A_DominoPiling.csproj|solutionrelative:50a_dominopiling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\IN-PROGRESS\\50A_DominoPiling\\50A_DominoPiling\\Program.cs",
+              "RelativeDocumentMoniker": "50A_DominoPiling\\Program.cs",
+              "ToolTip": "C:\\Users\\Kalef\\OneDrive\\Desktop\\work\\Codeforces\\problems\\IN-PROGRESS\\50A_DominoPiling\\50A_DominoPiling\\Program.cs",
+              "RelativeToolTip": "50A_DominoPiling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:05:13.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
