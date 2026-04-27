@@ -1,0 +1,15 @@
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\bin\Debug\net8.0\263A.exe
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\bin\Debug\net8.0\263A.deps.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\bin\Debug\net8.0\263A.runtimeconfig.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\bin\Debug\net8.0\263A.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\bin\Debug\net8.0\263A.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.AssemblyInfoInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.AssemblyInfo.cs
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.csproj.CoreCompileInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.sourcelink.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\refint\263A.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\263A.genruntimeconfig.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\263A_BeautifulMatrix\263A\263A\obj\Debug\net8.0\ref\263A.dll
