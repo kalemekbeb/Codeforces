@@ -9,6 +9,9 @@ Practicing and posting solved Codeforces problems. The main purpose is to streng
 
 ## Completed Problems
 - 4A ✓
+- 50A ✓
 - 71A ✓
 - 158A ✓
 - 231A ✓
+- 263A ✓
+- 282A ✓
