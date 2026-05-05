@@ -1,0 +1,15 @@
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\bin\Debug\net8.0\282ABit++.exe
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\bin\Debug\net8.0\282ABit++.deps.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\bin\Debug\net8.0\282ABit++.runtimeconfig.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\bin\Debug\net8.0\282ABit++.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\bin\Debug\net8.0\282ABit++.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.AssemblyInfoInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.AssemblyInfo.cs
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.csproj.CoreCompileInputs.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.sourcelink.json
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\refint\282ABit++.dll
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.pdb
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\282ABit++.genruntimeconfig.cache
+C:\Users\Kalef\OneDrive\Desktop\work\Codeforces\problems\IN-PROGRESS\282ABit++\282ABit++\obj\Debug\net8.0\ref\282ABit++.dll
