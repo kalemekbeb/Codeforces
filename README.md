@@ -13,5 +13,6 @@ Practicing and posting solved Codeforces problems. The main purpose is to streng
 - 71A ✓
 - 158A ✓
 - 231A ✓
+- 236A ✓
 - 263A ✓
 - 282A ✓
